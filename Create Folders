@@ -1,0 +1,3 @@
+mkdir datasets scripts projects docs
+mkdir scripts/basic_queries scripts/intermediate_queries scripts/advanced_queries
+mkdir projects/sales_analysis projects/trading_prop_firm
