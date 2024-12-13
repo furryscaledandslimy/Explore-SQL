@@ -15,8 +15,3 @@ Here's an overview of the repository:
 
 ---
 
-## 🛠️ Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/explore-sql-repo.git
-   cd explore-sql-repo
