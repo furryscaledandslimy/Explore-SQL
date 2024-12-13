@@ -1,2 +1,0 @@
-mkdir datasets scripts projects docs
-touch README.md LICENSE datasets/.gitkeep scripts/.gitkeep projects/.gitkeep docs/.gitkeep
