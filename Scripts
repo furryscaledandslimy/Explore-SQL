@@ -1,3 +1,0 @@
-mkdir scripts/basic_queries scripts/intermediate_queries scripts/advanced_queries
-touch README.md LICENSE datasets/.gitkeep scripts/.gitkeep projects/.gitkeep docs/.gitkeep
-
