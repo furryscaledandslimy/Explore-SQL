@@ -1,2 +1,0 @@
-mkdir projects/sales_analysis projects/trading_prop_firm
-touch README.md LICENSE datasets/.gitkeep scripts/.gitkeep projects/.gitkeep docs/.gitkeep
